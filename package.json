@@ -12,5 +12,8 @@
   "dependencies": {
     "directus": "^11.5.1",
     "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@directus/extensions-sdk": "^13.0.3"
   }
 }
